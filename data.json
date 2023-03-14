@@ -1,3 +1,1 @@
-{
-    "measurements": []
-}
+{"measurements": [{"location": "Sumiswald", "description": "Office", "c02": 3.63}, {"location": "Sumiswald", "description": "outdoor", "c02": 3.36}, {"location": "Sumiswald.", "description": "Auto", "c02": 3.45}, {"location": "Sumiswald", "description": "Carpark", "c02": 4.51}, {"location": "Gr\u00fcnenmatt", "description": "Car", "c02": 3.71}, {"location": "Gr\u00fcnenmatt", "description": "gasstation", "c02": 11.79}, {"location": "Gr\u00fcnenmatt", "description": "Gasstation 2", "c02": 3.02}, {"location": "Gr\u00fcnenmatt", "description": "Exhaust", "c02": 51.41}, {"location": "Habermehler", "description": "outside", "c02": 3.35}, {"location": "Robidog", "description": "inside", "c02": 3.33}, {"location": "Habermehler 2", "description": "outide", "c02": 5.84}, {"location": "Habermehler 3", "description": "outside", "c02": 4.02}, {"location": "Habermehler 4", "description": "outside", "c02": 4.6}]}
